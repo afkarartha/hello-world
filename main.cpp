@@ -1,8 +1,14 @@
-#include<iostream>
+#include <iostream>
+
 using namespace std;
 
-int main()
+int main() 
 {
-	cout<<"Hello World";
-	return 0;
+    cout << "Hello World!!!" << endl;
+
+    int x;
+
+    cin >> x;
+
+    cout << x << endl;
 }
